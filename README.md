@@ -1,4 +1,4 @@
-# `>_ Último Chamado`
+# >- The Last Call
 
 ### Horror Game · JavaScript · HTML5 · CSS3
 
@@ -156,8 +156,6 @@ Gerenciamento de seis estados diferentes para controlar os momentos e comportame
 
 ### Como executar o projeto
 
-Não é necessário instalar dependências, configurar servidores ou utilizar ferramentas adicionais.
-
 ```bash
 1. Acesse o repositório no GitHub.
 2. Clique no botão Code <>.
@@ -166,6 +164,8 @@ Não é necessário instalar dependências, configurar servidores ou utilizar fe
 5. Entre na pasta do projeto.
 6. Abra o arquivo index.html.
 ```
+Além disso também é possível jogar diretamente pelo navegador:
+<a href="https://assuncao-isaac.github.io/THE-LAST-CALL/">Jogue agora!</a>
 
 <badge color="success">Execução local</badge> <badge color="info">Sem instalação de dependências</badge>
 
